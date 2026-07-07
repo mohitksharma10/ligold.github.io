@@ -1,5 +1,5 @@
-baseURL = "https://dj4earth.github.io"
-title = "DJ4Earth"
+baseURL = "https://ligold.github.io"
+title = "Ligold"
 theme = "hugo-advance"
 paginate = 3
 enableGitInfo = false
