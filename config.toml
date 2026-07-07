@@ -1,5 +1,5 @@
 baseURL = "https://ligold.github.io"
-title = "Ligold2"
+title = "Ligold3"
 theme = "hugo-advance"
 paginate = 3
 enableGitInfo = false
